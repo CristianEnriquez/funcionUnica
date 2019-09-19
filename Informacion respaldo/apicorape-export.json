@@ -1,0 +1,43 @@
+{
+  "1100" : {
+    "1" : { "nombre" : "Awá", "tipo" : "Nacionalidad" },
+    "2" : { "nombre" : "Chachi", "tipo" : "Nacionalidad" },
+    "3" : { "nombre" : "Épera", "tipo" : "Nacionalidad" },
+    "4" : { "nombre" : "Tsa´chila", "tipo" : "Nacionalidad" },
+    "5" : { "nombre" : "Achuar", "tipo" : "Nacionalidad" },
+    "6" : { "nombre" : "Andoa", "tipo" : "Nacionalidad" },
+    "7" : { "nombre" : "Cofán", "tipo" : "Nacionalidad" },
+    "8" : { "nombre" : "Sapara", "tipo" : "Nacionalidad" },
+    "9" : { "nombre" : "Sekoya", "tipo" : "Nacionalidad" },
+    "10" : { "nombre" : "Shiwiar", "tipo" : "Nacionalidad" },
+    "11" : { "nombre" : "Shuar", "tipo" : "Nacionalidad" },
+    "12" : { "nombre" : "Siona", "tipo" : "Nacionalidad" },
+    "13" : { "nombre" : "Waorani", "tipo" : "Nacionalidad" },
+    "14" : { "nombre" : "Kichwa", "tipo" : "Nacionalidad" },
+    "15" : { "nombre" : "Afroecuatoriano", "tipo" : "Pueblo" },
+    "16" : { "nombre" : "Montuvios", "tipo" : "Pueblo" },
+    "17" : { "nombre" : "Huancavilca ", "tipo" : "Pueblo" },
+    "18" : { "nombre" : "Manta", "tipo" : "Pueblo" }
+    
+  },
+  "2200" : {
+    "1" : { "nombre" : "Chibuleo ", "nacion" : "Kichwa" },
+    "2" : { "nombre" : "Kañari", "nacion" : "Kichwa" },
+    "3" : { "nombre" : "Karanki", "nacion" : "Kichwa" },
+    "4" : { "nombre" : "Kayambi", "nacion" : "Kichwa" },
+    "5" : { "nombre" : "Kisapincha", "nacion" : "Kichwa" },
+    "6" : { "nombre" : "Kitu Kara", "nacion" : "Kichwa" },
+    "7" : { "nombre" : "Natabuela", "nacion" : "Kichwa" },
+    "8" : { "nombre" : "Otavalo", "nacion" : "Kichwa" },
+    "9" : { "nombre" : "Panzaleo", "nacion" : "Kichwa" },
+    "10" : { "nombre" : "Puruwá", "nacion" : "Kichwa" },
+    "11" : { "nombre" : "Salasaka", "nacion" : "Kichwa" },
+    "12" : { "nombre" : "Saraguro", "nacion" : "Kichwa" },
+    "13" : { "nombre" : "Tomabela", "nacion" : "Kichwa" },
+    "14" : { "nombre" : "Waranka", "nacion" : "Kichwa" },
+    "15" : { "nombre" : "Pasto", "nacion" : "Kichwa" },
+    "16" : { "nombre" : "Palta", "nacion" : "Kichwa" },
+    "17" : { "nombre" : "Kichwa de Amazonia", "nacion" : "Kichwa" }
+    
+  }
+}
